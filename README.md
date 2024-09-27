@@ -80,6 +80,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [We are Dev (by Fabio Biondi)](https://t.me/we_are_devs)
 
+* [We Are Project Manager](http://weareprojectmanager.com/)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
